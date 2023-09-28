@@ -1,0 +1,23 @@
+de_springfield_v2
+Mapping and texures by the_mook[dg]
+Original idea by Tugboatt027
+Big shouts to beta-tester Benji
+
+Background:
+Springfield has been over-run by terrorists intent on
+destroying the town's supply of Duff, so as to seriously 
+demoralise the townsfolk into submitting to their
+demands. (Lame isn't it?)
+
+Terrorists:
+You must bomb the Duff brewery to halt the fresh supply
+of beer entering Springfield. In order to invalidate all
+other Duff you must also bomb the Duff pipeline leading
+to Moe's.
+
+Counter-Terrorists:
+Prevent the terrorists getting their hands on the town's
+supply of the gorgeous, cold beverage.
+
+Choose team to continue.
+

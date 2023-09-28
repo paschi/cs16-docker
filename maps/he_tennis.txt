@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html><head><title>.: Cyborg2 - Error 404 File not Found :.</title>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<script language=JavaScript type=text/javascript>
+<!--
+function ExplorerFix()
+{
+for (a in document.links) document.links
+[a].onfocus
+= 
+document.links[a].blur;
+}
+if (document.all)
+{
+document.onmousedown = ExplorerFix;
+}
+// -->
+</script>
+<link href="http://cyborg2.com/style.css" type=text/css rel=STYLESHEET>
+</head>
+<body text=#FFFFFF bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginheight="0" marginwidth="0">
+<table cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <tbody>
+  <tr>
+      <td align=middle width=149 bgColor=#333366>&nbsp;</td>
+      <td align=middle bgColor=#333366><img src="http://cyborg2.com/images/header2.gif" 
+      ></td>
+    <td width=149 bgColor=#333366><img height=70 
+      src="http://cyborg2.com/images/clearpixel.gif" width=1></td></tr></tbody></table>
+<table cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <tbody>
+  <tr>
+    <td width="100%" bgColor=#000000 colSpan=4 height=1><img height=1 
+      src="http://cyborg2.com/images/clearpixel.gif" width=1></td></tr>
+  <tr vAlign=top bgColor=#ff9933>
+    <td align=middle width="100%" background=http://cyborg2.com/images/orangebg.gif colSpan=4 
+    height=21>
+       <img height=1 src="http://cyborg2.com/images/clearpixel.gif" width=400></td></tr>
+  <tr>
+    <td vAlign=top align=middle width="100%" bgColor=#333333 colSpan=4 
+      height=1><img height=1 src="http://cyborg2.com/images/clearpixel.gif" width=1></td></tr>
+  <tr>
+    <td width=149 background=http://cyborg2.com/images/bg.gif bgColor=#333366><img height=1 
+      src="http://cyborg2.com/images/clearpixel.gif" width=149></td>
+    <td width=1 background=http://cyborg2.com/images/bg.gif bgColor=#333333><img height=1 
+      src="http://cyborg2.com/images/clearpixel.gif" width=1></td>
+    <td vAlign=top width="100%" background=http://cyborg2.com/images/bg.gif>&nbsp;</td>
+    <td vAlign=top width=130 background=http://cyborg2.com/images/bg.gif bgColor=#333366><img 
+      height=1 src="http://cyborg2.com/images/clearpixel.gif" width=130></td></tr>
+  <tr>
+      <td vAlign=top width=149 background=http://cyborg2.com/images/bg.gif bgColor=#333366>&nbsp;</td>
+    <td width=1 bgColor=#000000><img height=1 src="http://cyborg2.com/images/clearpixel.gif" 
+      width=1></td>
+    <td vAlign=top width="100%"><br>
+      <table cellSpacing=0 width="98%" align=center bgColor=#333366 border=0>
+        <tbody>
+        <tr>
+          <td vAlign=top width="100%">
+            <table cellSpacing=0 cellPadding=2 width="100%" border=0>
+              <tbody>
+              <tr>
+                      <td width="50%" background=http://cyborg2.com/images/topbg.gif 
+                  bgColor=#333366><b>404 - Not Found</b></td>
+                <td align=right width="50%" background=http://cyborg2.com/images/topbg.gif 
+                bgColor=#333366><b>
+                  <script language=JavaScript>
+
+
+
+<!-- Begin
+d = new Array(
+"Sunday",
+"Monday",
+"Tuesday",
+"Wednesday",
+"Thursday",
+"Friday",
+"Saturday"
+);
+m = new Array(
+"January",
+"February",
+"March",
+"April",
+"May",
+"June",
+"July",
+"August",
+"September",
+"October",
+"November",
+"December"
+);
+
+today = new Date();
+day = today.getDate();
+year = today.getYear();
+
+if (year < 2000)    
+year = year + 1900; 
+
+end = "th";
+if (day==1 || day==21 || day==31) end="st";
+if (day==2 || day==22) end="nd";
+if (day==3 || day==23) end="rd";
+day+=end;
+
+document.write(" ");
+document.write(d[today.getDay()]+" "+m[today.getMonth()]+" ");
+document.write(day+" " + year);
+document.write(" ");
+// End -->
+</script>
+                  </b></td></tr>
+              <tr>
+                      <td bgColor=#000000 colSpan=2><p class=headings>&nbsp; </p>
+                        <p class=headings>Whoops. Where did I put that page. Or 
+                          was it just you typed the url wrong?</p>
+                        <p> </p>
+                        <p>If you followed this link from a page on this site, or even an outside site, 
+                          please send mail to <a href="mailto:ap0k@cyborg2.com">ap0k@cyborg2.com</a> 
+                          with the name of the page you where on and the address 
+                          of the link you clicked, so I can rectify the error, thankyou.</p>
+                        <p>Click <a href="http://cyborg2.com">here</a> to return 
+                          to the homepage, or <a href="javascript:history.back(1)">here</a> to go back.</p>
+                        <p></p>
+                        <p align="left" class=headings>You may have been trying 
+                          to reach one of the following:</p>
+                        <p align="left" class=headings>&nbsp;</p>
+                        <table width="100%" border="0">
+                          <tr> 
+                            <td width="48%"><div align="right"><a href="http://cyborg2.com/iplist.php">UK2 
+                                Server IP's</a> </div></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="48%"><a href="http://cyborg2.com/pafiledb/pafiledb.php?action=category&id=1"> 
+                              Maps</a></td>
+                          </tr>
+                          <tr> 
+                            <td><div align="right"><a href="http://cyborg2.com/pafiledb/pafiledb.php?action=category&id=6">Updates</a> 
+                              </div></td>
+                            <td>&nbsp;</td>
+                            <td><a href="http://cyborg2.com/pafiledb/pafiledb.php?action=category&id=9"> 
+                              Skins</a></td>
+                          </tr>
+                          <tr>
+                            <td><div align="right"><a href="http://cyborg2.com/mapcycles.php">Mapcycles</a></div></td>
+                            <td>&nbsp;</td>
+                            <td><a href="http://cyborg2.com/players.htm">Players 
+                              Online</a></td>
+                          </tr>
+                          <tr> 
+                            <td><div align="right"><a href="http://cyborg2.com/contactadmin.php">Report 
+                                a Cheat/Contact an Admin</a></div></td>
+                            <td>&nbsp;</td>
+                            <td><a href="http://cyborg2.com/pafiledb/pafiledb.php?action=category&id=19">Scripts</a></td>
+                          </tr>
+                        </table>
+                        
+                      <p>&nbsp;</p></td>
+                    </tr></tbody></table></td></tr></tbody></table>
+      <p class=newstext align=center>Copyright © 2002. Cyborg2.com All Rights 
+          Reserved.<br>
+          &nbsp;</p></td>
+      <td vAlign=top width=130 background=http://cyborg2.com/images/bg.gif bgColor=#333366>&nbsp;</td>
+    </tr>
+  <tr>
+    <td bgColor=#333366 colSpan=4><img height=1 src="http://cyborg2.com/images/clearpixel.gif" 
+      width=1></td></tr></tbody></table></body></html>

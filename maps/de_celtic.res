@@ -1,0 +1,13 @@
+de_celtic.wad
+gfx/env/de_celticbk.tga
+gfx/env/de_celticdn.tga
+gfx/env/de_celticft.tga
+gfx/env/de_celticlf.tga
+gfx/env/de_celticrt.tga
+gfx/env/de_celticup.tga
+maps/de_celtic.bsp
+maps/de_celtic.res
+maps/de_celtic.txt
+info_de_celtic.txt
+sound/ambience/de_celtic.wav
+sound/misc/gersniper.wav

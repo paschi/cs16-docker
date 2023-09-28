@@ -1,0 +1,19 @@
+Trainyard Special Edition - Bomb/Defuse
+(a tribute to de_train)
+by Lionheart of Xanadu (o.behr@t-online.de)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear payloads on two
+trains. Team members must defuse any 
+bombs that threaten the payloads.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the payloads. 
+
+Other Notes: There are 2 payloads on the
+trains in the mission. 
+
+This map is part of the great cstrike.de Remake Pack
+- get this pack at www.cstrike.de/mapreviews/remakes -
+
+(Press FIRE to continue)

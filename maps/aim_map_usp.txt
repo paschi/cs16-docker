@@ -1,0 +1,22 @@
+Downloaded thanks to your friends at http://www.cs-maps.co.uk.
+
+We Have more maps than you can Eat
+
+Regards
+
+Squid & Kallus.
+
+Contact: squid@cs-maps.co.uk or kallus@cs-maps.co.uk
+
+Important Destructions:-
+
+The txt, bsp & res files go in cstrike/maps folder
+wad files go in  /cstrike folder
+tga & bmp files go in the cstrike/grfx/env
+wav files go into your cstrike/sound folder
+spr files go in your /cstrike/sprites folder
+pwf & pxp files go in /cstrike/PODbot/WPTDefault folder 
+
+And that should cover it, then go forth and destroy.
+
+Then play.

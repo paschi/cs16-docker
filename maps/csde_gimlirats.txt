@@ -1,0 +1,21 @@
+Gimlirats - Hostage Rescue / Bomb / Defuse
+Mapping by:
+nAcC|Gimli  (GimliW@gmx.net)
+Textures/Graphics by:
+Gimli (www.gimli-maps.de.vu)
+X-Tender (xtender2k@gmx.de)
+GarbageMan (C.Manschitz@gmx.de)
+[00]Madness (www.clan00.de)
+
+Counter-Terrorists: Navigate your way
+around my room and get those
+Hostages from the foreign Terrorists.
+Prevent Terrorists
+from bombing my cd-collection.
+Rescue Zone = PC Tower
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages or bomb 
+my cd-collection.
+
+(Press FIRE to continue)

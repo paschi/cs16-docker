@@ -1,0 +1,37 @@
+de_rats4_final - Defusion
+By Organic700 (organic700@gmx.net)
+
+
+This map is the final version of de_rats4.
+With new textures and a lot of new things, the 
+map is much better than its precursor.
+
+
+
+--==-- Terrorists --==--
+
+The terrorists start in an office and have to 
+bomb the TV-rack in the living room.
+
+
+
+--==-- Counter-Terrorists --==--
+
+Prevent all terrorists from bombing the 
+TV-rack or eliminate all terrorists.
+
+
+
+--==-- Other Notes --==--
+
+There are 2 detonation targets in the TV-rack.
+
+
+
+--==-- SpEcIaL ThAnKs --==--
+
+ - Thanks to Uluk@i
+ - Thanks to Vollkrasser
+ - Thanks to Kn@llfrosch
+ - Thanks to King555  (www.vb-paradise.de)
+ - Thanks to the German Elite Rangers

@@ -1,0 +1,18 @@
+Town haste - Hostage Rescue
+Mapping & Textures by:
+B@tman (ILLA) (http://illa.gamer.hr)
+
+Counter-Terrorists: Terrorists, after two
+successfull series of bombings in the
+central town, as they fled, ended up in
+the suburbs. This is the last point where
+you must stop them before they escape out
+of reach. Without Hostages they are
+doomed, so try to evacuate them all.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages, eliminate
+the Counter-Terrorists and escape from the
+town.
+
+(Press FIRE to continue)

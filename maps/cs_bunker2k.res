@@ -1,0 +1,9 @@
+maps/cs_bunker2k.bsp
+maps/cs_bunker2k.txt
+gfx/env/theyh3dn.tga
+gfx/env/theyh3up.tga
+gfx/env/theyh3ft.tga
+gfx/env/theyh3bk.tga
+gfx/env/theyh3rt.tga
+gfx/env/theyh3lf.tga
+sprites/de_arizona_glow.spr

@@ -1,0 +1,21 @@
+Operation Ice Hawk - Bomb/Defuse
+by Spydre (spydre@r-syn.recongamer.com)
+Textures by Filthypanda.
+Additional textures provided by
+Blaz, Flashdevil, Telnets, and Smoe.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the warehouse mainframe
+and the subway control room.  Team
+members must defuse any bombs that
+threaten the targets.
+
+Terrorists: Under the cover of the
+thunderous blizzard you must find one 
+of the two designated targets and plant
+the C4.
+
+Other Notes: There are 2 targets in this
+mission
+
+(Press FIRE to Continue)

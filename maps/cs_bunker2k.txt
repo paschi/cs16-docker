@@ -1,0 +1,20 @@
+Biohazard Bunker 2K - Hostage Rescue
+(a tribute to cs_bunker)
+
+---------------------------------
+by Atomfried (atomfried@saout.de)
+www.atomfried-maps.de (coming soon)
+---------------------------------
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission. 
+
+This map is part of the great cstrike.de Remake Pack
+- get this pack at www.cstrike.de/mapreviews/remakes -

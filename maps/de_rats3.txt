@@ -1,0 +1,15 @@
+Rats3 - Bomb/Defuse
+by Chris Spain (chris@cyber-rat.com)
+Playtesting by [SKR8]Gunslinger
+
+Counter-Terrorists:
+Prevent the terrorists from blowing-
+up the toy U.F.O. Team members must
+defuse any bombs that threaten the
+target area.
+
+Terrorists:
+The terrorist carrying the bomb must
+plant it on or around the U.F.O.
+
+(Press FIRE to continue)

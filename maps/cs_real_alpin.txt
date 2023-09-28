@@ -1,0 +1,21 @@
+Alpin - Hostage Rescue
+by [BSE]Luis_Cypher
+
+Scenario:
+A beautiful restaurant in the
+german alps
+
+Counter-Terrorists: 
+Rescue 4 hostages from the
+mountainside restaurant
+
+Terrorists:
+Prevent the counter-terrorist
+from rescuing the hostages
+
+Other Notes:
+Rescue point is at the bottom
+of the cable way station
+
+Updates: Bugfixes and new sky
+(Press FIRE to continue)

@@ -1,0 +1,11 @@
+schlafwagen.wad
+gfx/env/eisschmbk.tga
+gfx/env/eisschmdn.tga
+gfx/env/eisschmft.tga
+gfx/env/eisschmlf.tga
+gfx/env/eisschmrt.tga
+gfx/env/eisschmup.tga
+sound/ambience/dog1.wav
+sound/ambience/rollin.wav
+maps/as_train_rats.bsp
+maps/as_train_rats.txt

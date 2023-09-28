@@ -1,0 +1,32 @@
+Assault UPC23-Version - Hostage Rescue
+A NEW Version of cs_assault_upc
+by [UPC23]p$yk0m@n  (www.upc23.de)
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages. 
+
+Terrorists: Defend the Warehouse 23
+and prevent the Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission. 
+
+Credits to Valve, BDog and free Tex-Sites
+Used and modified some of their Textures...
+
+Credits to the real cs_assault, 
+the original version by CryptR
+
+thx to the Graffitys by [UPC23]cyrus-X
+
+This map is part of the great cstrike.de Remake Pack
+- get this pack at www.cstrike.de/mapreviews/remakes -
+
+Greetings to the awesome MOD-Team of Project Timeless !!!
+www.project-timeless.net
+
+
+
+

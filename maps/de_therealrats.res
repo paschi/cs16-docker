@@ -1,0 +1,15 @@
+models/de_therealrats/bierflasche.mdl
+models/de_therealrats/cola.mdl
+models/de_therealrats/pringles.mdl
+sprites/blueglow.spr
+sound/de_therealrats/bird.wav
+sound/de_therealrats/boomsucces.wav
+sound/de_therealrats/boomsucces2.wav
+sound/de_therealrats/camper.wav
+sound/de_therealrats/found.wav
+sound/de_therealrats/jumptodead.wav
+sound/de_therealrats/jumptodead2.wav
+sound/de_therealrats/radio.wav
+sound/de_therealrats/sleep.wav
+maps/de_therealrats.txt
+maps/de_therealrats.bsp

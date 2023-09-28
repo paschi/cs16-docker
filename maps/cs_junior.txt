@@ -1,0 +1,18 @@
+CS_JUNIOR - SPEEDBALL
+By Rik Visser aka 3D_Rik
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Note: If you feel offended by the fact
+that this map takes place in a playground,
+just look in your "cstrike" directory for
+a map named "junior". Copy the "decals.wad"
+to your "cstrike" directory. Now you will
+shoot with paint. Make sure you backup your
+original "decals.wad" first. Have fun!
+
+Terrorist:
+Kick butt!
+
+Counter-Terrorist:
+Kick more butt!

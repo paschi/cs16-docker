@@ -1,0 +1,14 @@
+de_tpoint - Bomb/Defuse
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the T-DSL modems in or behind
+the Tpoint. Team members must defuse any 
+bombs that threaten the T-DSL modems.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the deliveries. 
+
+Other Notes: There are 2 deliveries of
+T-DSL modems in the mission. 
+
+(Press FIRE to continue)

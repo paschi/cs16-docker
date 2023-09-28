@@ -1,0 +1,21 @@
+SCUD_2K1 - Bomb/Defuse
+
+map: ook - ook@lastcom.com
+
+[ Background ]
+
+Terrorists have infiltrated a hidden
+American missile base in an abandoned
+palace near the Iraqi border.
+
+[ Counter-Terrorists ]
+
+Protect the missles and launch command
+from the Terrorist strike force.
+
+[ Terrorists ]
+
+Destroy the launch command or the
+missiles themselves.
+
+(Press FIRE to continue)

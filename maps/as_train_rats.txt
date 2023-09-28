@@ -1,0 +1,42 @@
+as_train_rats - An Assassination Map
+by [R.A.F.] Meister Röhrich
+
+***Edited Version, August 2nd, 2001***
+
+Briefing:
+
+The Setting is a train wagon somewhere between Germany and Poland.
+Its destination is Crakow, Poland.
+
+The Chief rat is very thirsty, but there are some bad rats, who are defending 
+the upper cupboard, where 2 Cans of good Polish beer can be found.
+
+
+Orders:
+
+Counter-Terrorists:
+Take the Chief rat to the upper cupboard and get the beer!!
+
+Terrorists:
+Defend the upper cupboard and the good beer against the thirsty CTs!!
+
+
+
+Other Informations:
+
+The upper door to the Cupboard can only be used with teamwork. 
+It must be opened with the button below.
+From the three beds you can jump down into the open suitcase,
+where you will land softly.
+
+
+
+---------------------------------------------------------------------
+Credits: 
+Map made by [R.A.F.] Meister Röhrich
+Used textures or modified textures from:
+Wadfather
+CosmoGraph
+SWAT3
+And some textures by myself :)
+Sky made by Ferdi

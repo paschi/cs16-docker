@@ -1,0 +1,9 @@
+gfx/env/forestbk.tga
+gfx/env/forestdn.tga
+gfx/env/forestft.tga
+gfx/env/forestlf.tga
+gfx/env/forestrt.tga
+gfx/env/forestup.tga
+sound/ambience/hallelujah.wav
+maps/de_mice2.txt
+maps/de_mice2.bsp

@@ -1,0 +1,28 @@
+Facility2K - Hostage Rescue
+(a tribute to cs_facility)
+by Di$T0rTi0n (distortionleveldesign@gmx.de)
+visit www.distortion.rockz.de
+
+textures by  TheDoenerKing, Diggedagg and Linga.
+Thanks to: [BdD]DrKrabbe, Mr.AK, TheDoenerKing, 
+Ferdi, Psychoduck, Newbielein, GarbageMan and Cpt.Bucklew
+Special Thanks to plazebo, [RPD]-Killer and [SC]X-Tender
+and diematrixistunteruns.
+Very Special Thanx to [UPC23]P$yk0m@n!
+
+Counter-Terrorists:  Infiltrate the 
+facility and rescue the hostages 
+from the Terrorists holding them.  
+
+Terrorists: Prevent the Counter-
+Terrorist team from rescuing the 
+hostages.  
+
+Other Notes: 
+There are 4 hostages in the plane.
+
+This map is part of the great cstrike.de Remake Pack
+- get this pack at www.cstrike.de/mapreviews/remakes -
+ 
+(Press Fire to Continue)
+

@@ -1,0 +1,9 @@
+sound/ambience/cs_facility2k.wav
+maps/cs_facility2k.bsp
+maps/cs_facility2k.txt
+gfx/env/fullmoondn.tga
+gfx/env/fullmoonup.tga
+gfx/env/fullmoonft.tga
+gfx/env/fullmoonbk.tga
+gfx/env/fullmoonrt.tga
+gfx/env/fullmoonlf.tga

@@ -1,0 +1,22 @@
+de_winternuke (original de_nuke by Jo Bieg aka Meeedic)
+made by keeper (keeper@overcmail.de)
+www.team-majesty.de   #majesty
+Textures from: Linga, Diggedagg
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear rocket. Team members must
+defuse any bombs that threaten targeted 
+areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+Other Notes: 
+
+-There are 2 targets 
+ in this mission.
+
+This map is part of the great cstrike.de Remake Pack
+- get this pack at www.cstrike.de/mapreviews/remakes -
+
+(Press FIRE to continue)

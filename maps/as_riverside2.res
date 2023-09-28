@@ -1,0 +1,9 @@
+sound/ambience/rvs_bird.wav
+maps/as_riverside2.bsp
+maps/as_riverside2.txt
+gfx/env/riverzcape1dn.tga
+gfx/env/riverzcape1up.tga
+gfx/env/riverzcape1ft.tga
+gfx/env/riverzcape1bk.tga
+gfx/env/riverzcape1rt.tga
+gfx/env/riverzcape1lf.tga
