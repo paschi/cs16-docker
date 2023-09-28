@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:bullseye-20211011
 
 ARG USER_ID=1000
 ARG USER=steam
